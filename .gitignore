@@ -6,3 +6,5 @@ bin/
 obj/
 TestResults/
 Payroll_service_ADO.NET.sln/
+.vs/
+Payroll_service_ADO.NET.csproj/

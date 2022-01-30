@@ -10,7 +10,7 @@ namespace Payroll_service_ADO.NET
 
             EmployeeRepository emprepository = new EmployeeRepository();  //Creating a object of EmployeeRepository class.
 
-            emprepository.DataBaseConnection(); // UC1 Ensuring the database connection using the sql connection string
+            emprepository.DataBaseConnection(); //  UC1 Ensuring the database connection using the sql connection string
            
             Console.ReadLine();
         }
